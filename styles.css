@@ -31,3 +31,12 @@ color: lightsalmon;
 #contact_client-section {
   color: blueviolet;
 }
+
+.video-player {
+  position: relative;
+  overflow: hidden;
+}
+
+.video {
+  width: 100%;
+}
